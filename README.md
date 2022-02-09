@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## vicenteicc2008
 
-You can use the [editor on GitHub](https://github.com/vicenteicc2008/vicenteicc2008.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+13 años soy Vicente Iñaki Cortes Cortes, soy de Chile y soy desarrollador.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### mis Dispositivos
 
-### Markdown
+tengo 5 celulares con Windows y son:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nokia Lumia 530
 
-```markdown
-Syntax highlighted code block
+Nokia Lumia 520
 
-# Header 1
-## Header 2
-### Header 3
+Nokia Lumia 925
 
-- Bulleted
-- List
+Microsoft Lumia 435
 
-1. Numbered
-2. List
+Nokia Lumia 820.
 
-**Bold** and _Italic_ and `Code` text
+y tengo muchos dispositivos Android y tengo 4 tablets pero 1 no da video por lo que decidi no usarla y es la Samsung Galaxy Tab E 7.0 (SM-T113NU) y tengo una microlab mb4 plus se 3g que la uso solo como tablet y tengo una Sony Xperia Tablet S que estoy intentando instalar Windows en esa tablet y tengo una Surface RT que la uso siempre.
 
-[Link](url) and ![Image](src)
-```
+### Contacto
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+vicenteicc2008 en Telegram
 
-### Jekyll Themes
+vicenteicc2008 en Instagram
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vicenteicc2008/vicenteicc2008.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+vicenteicc2008 en Twitter (mi cuenta secundaria)
 
-### Support or Contact
+Vicente89114566 en Twitter
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+vicentecortes725 en Tik Tok
